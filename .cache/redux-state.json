@@ -1,22 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "93bd0ce5a908171600a54ac2b57eb3ab",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -872,16 +863,14 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-18T14:08:23.784Z",
+      "buildTime": "2018-11-18T14:27:07.853Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "aa513b8e78065f77bea1204c9eab9a57",
+        "contentDigest": "34d0d8dab987ef66c05fdf907ab12e21",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -891,7 +880,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a85b647a8e300794ce845a8ea4dce7b5",
+        "contentDigest": "7eea92cb505dd8ebe5c524166e47526f",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -903,7 +892,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-11-18T13:54:04.398Z",
-      "accessTime": "2018-11-18T14:08:37.395Z",
+      "accessTime": "2018-11-18T14:27:10.848Z",
       "changeTime": "2018-11-18T14:07:49.183Z",
       "birthTime": "2018-11-18T13:54:04.397Z",
       "root": "/",
@@ -921,11 +910,11 @@
       "blksize": 4096,
       "ino": 17923527,
       "blocks": 0,
-      "atimeMs": 1542550117395.1174,
+      "atimeMs": 1542551230847.8477,
       "mtimeMs": 1542549244398.1624,
       "ctimeMs": 1542550069183.1787,
       "birthtimeMs": 1542549244397.1555,
-      "atime": "2018-11-18T14:08:37.395Z",
+      "atime": "2018-11-18T14:27:10.848Z",
       "mtime": "2018-11-18T13:54:04.398Z",
       "ctime": "2018-11-18T14:07:49.183Z",
       "birthtime": "2018-11-18T13:54:04.397Z"
@@ -1153,10 +1142,6 @@
     "sq--src-components-image-js": 2011440971
   },
   "components": {
-    "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js"
-    },
     "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/pages/404.js": {
       "query": "",
       "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/pages/404.js"
