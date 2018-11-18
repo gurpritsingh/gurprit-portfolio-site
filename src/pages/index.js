@@ -6,9 +6,9 @@ import Image from '../components/image'
 
 const IndexPage = () => (
   <Layout>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <h1>Hi I am Gurprit</h1>
+    <p>Welcome to my portfolio site.</p>
+    <p>Watch out for this space, soon I will update this page</p>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
     </div>

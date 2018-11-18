@@ -1,13 +1,22 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "93bd0ce5a908171600a54ac2b57eb3ab",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -861,16 +870,16 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Default Starter"
+        "title": "Hi I am a  javascript developer, a frontend hacker"
       },
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2018-11-18T14:27:07.853Z",
+      "port": "8000",
+      "host": "localhost",
+      "buildTime": "2018-11-18T16:37:05.741Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "34d0d8dab987ef66c05fdf907ab12e21",
+        "contentDigest": "d9097d7ab127db0f5994fa65e3ef40ce",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -880,7 +889,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7eea92cb505dd8ebe5c524166e47526f",
+        "contentDigest": "c22e931c15666ddd165315ae35b22dca",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -892,7 +901,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-11-18T13:54:04.398Z",
-      "accessTime": "2018-11-18T14:27:10.848Z",
+      "accessTime": "2018-11-18T16:37:08.615Z",
       "changeTime": "2018-11-18T14:07:49.183Z",
       "birthTime": "2018-11-18T13:54:04.397Z",
       "root": "/",
@@ -910,11 +919,11 @@
       "blksize": 4096,
       "ino": 17923527,
       "blocks": 0,
-      "atimeMs": 1542551230847.8477,
+      "atimeMs": 1542559028614.9316,
       "mtimeMs": 1542549244398.1624,
       "ctimeMs": 1542550069183.1787,
       "birthtimeMs": 1542549244397.1555,
-      "atime": "2018-11-18T14:27:10.848Z",
+      "atime": "2018-11-18T16:37:08.615Z",
       "mtime": "2018-11-18T13:54:04.398Z",
       "ctime": "2018-11-18T14:07:49.183Z",
       "birthtime": "2018-11-18T13:54:04.397Z"
@@ -1153,6 +1162,10 @@
     "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/pages/page-2.js": {
       "query": "",
       "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/pages/page-2.js"
+    },
+    "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {
