@@ -692,7 +692,7 @@
       "resolve": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "61d3215ef562eb26a6a1916a4b5b3803",
+      "version": "dc5fd4de5029cd42844b6a08ebd7a79a",
       "pluginOptions": {
         "plugins": []
       },
@@ -768,7 +768,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "14b56865fbf2691b71c71ee4cda1bb8b",
+        "contentDigest": "2add255f3f790a81d9aa6a50a4effd60",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -874,12 +874,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2018-11-18T16:37:05.741Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-11-19T16:52:36.373Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d9097d7ab127db0f5994fa65e3ef40ce",
+        "contentDigest": "81837d744b73fa9b33d88663bae12a01",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -889,7 +891,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c22e931c15666ddd165315ae35b22dca",
+        "contentDigest": "9b7aa871dfb892eb3367012897b48bf1",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -901,7 +903,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-11-18T13:54:04.398Z",
-      "accessTime": "2018-11-18T16:37:08.615Z",
+      "accessTime": "2018-11-19T16:52:50.608Z",
       "changeTime": "2018-11-18T14:07:49.183Z",
       "birthTime": "2018-11-18T13:54:04.397Z",
       "root": "/",
@@ -910,7 +912,7 @@
       "ext": "",
       "name": "images",
       "relativeDirectory": "..",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 16877,
       "nlink": 4,
       "uid": 501,
@@ -919,11 +921,11 @@
       "blksize": 4096,
       "ino": 17923527,
       "blocks": 0,
-      "atimeMs": 1542559028614.9316,
+      "atimeMs": 1542646370607.7625,
       "mtimeMs": 1542549244398.1624,
       "ctimeMs": 1542550069183.1787,
       "birthtimeMs": 1542549244397.1555,
-      "atime": "2018-11-18T16:37:08.615Z",
+      "atime": "2018-11-19T16:52:50.608Z",
       "mtime": "2018-11-18T13:54:04.398Z",
       "ctime": "2018-11-18T14:07:49.183Z",
       "birthtime": "2018-11-18T13:54:04.397Z"
@@ -948,7 +950,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2018-11-18T13:54:04.398Z",
-      "accessTime": "2018-11-18T14:07:12.881Z",
+      "accessTime": "2018-11-18T14:32:18.133Z",
       "changeTime": "2018-11-18T14:07:49.183Z",
       "birthTime": "2018-11-18T13:54:04.398Z",
       "root": "/",
@@ -957,7 +959,7 @@
       "ext": ".png",
       "name": "gatsby-icon",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
@@ -966,11 +968,11 @@
       "blksize": 4096,
       "ino": 17923529,
       "blocks": 48,
-      "atimeMs": 1542550032881.4146,
+      "atimeMs": 1542551538132.6125,
       "mtimeMs": 1542549244398.3284,
       "ctimeMs": 1542550069183.0947,
       "birthtimeMs": 1542549244398.1548,
-      "atime": "2018-11-18T14:07:12.881Z",
+      "atime": "2018-11-18T14:32:18.133Z",
       "mtime": "2018-11-18T13:54:04.398Z",
       "ctime": "2018-11-18T14:07:49.183Z",
       "birthtime": "2018-11-18T13:54:04.398Z"
@@ -1005,7 +1007,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2018-11-18T13:54:04.398Z",
-      "accessTime": "2018-11-18T14:07:12.881Z",
+      "accessTime": "2018-11-18T14:32:18.133Z",
       "changeTime": "2018-11-18T14:07:49.183Z",
       "birthTime": "2018-11-18T13:54:04.397Z",
       "root": "/",
@@ -1014,7 +1016,7 @@
       "ext": ".png",
       "name": "gatsby-astronaut",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
@@ -1023,11 +1025,11 @@
       "blksize": 4096,
       "ino": 17923528,
       "blocks": 328,
-      "atimeMs": 1542550032881.4114,
+      "atimeMs": 1542551538132.5605,
       "mtimeMs": 1542549244398.0552,
       "ctimeMs": 1542550069182.6838,
       "birthtimeMs": 1542549244397.2231,
-      "atime": "2018-11-18T14:07:12.881Z",
+      "atime": "2018-11-18T14:32:18.133Z",
       "mtime": "2018-11-18T13:54:04.398Z",
       "ctime": "2018-11-18T14:07:49.183Z",
       "birthtime": "2018-11-18T13:54:04.397Z"
@@ -1125,7 +1127,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "60f24d40224068289fcf388e743b2432"
+    "PLUGINS_HASH": "8287a098b625277d0e7731c326b82846"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -1151,6 +1153,10 @@
     "sq--src-components-image-js": 2011440971
   },
   "components": {
+    "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js"
+    },
     "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/pages/404.js": {
       "query": "",
       "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/pages/404.js"
@@ -1162,21 +1168,9 @@
     "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/pages/page-2.js": {
       "query": "",
       "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/pages/page-2.js"
-    },
-    "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
-      "hash": 755544856
-    },
     "sq--src-components-image-js": {
       "name": "usersGurpritsinghWorkspacePortfolioGurpritPortfolioSiteSrcComponentsImageJs2011440971",
       "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/components/image.js",
@@ -1184,6 +1178,14 @@
       "jsonName": "sq--src-components-image-js",
       "query": "query usersGurpritsinghWorkspacePortfolioGurpritPortfolioSiteSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/gurpritsingh/workspace/portfolio/gurprit-portfolio-site/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
     }
   }
 }
