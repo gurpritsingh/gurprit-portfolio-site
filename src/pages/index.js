@@ -9,7 +9,7 @@ const IndexPage = () => (
     <h1>Hi I am Gurprit</h1>
     {/* <p>Welcome to my portfolio site.</p> */}
     <p>Watch out for this space,for updates</p>
-    <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
+    <div style={{  marginBottom: '1.45rem' }}>
       {/* <Image /> */}
     </div>
     {/* <Link to="/page-2/">Go to page 2</Link> */}
