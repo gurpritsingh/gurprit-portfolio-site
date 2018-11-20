@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Hi I am a  javascript developer, a frontend hacker',
+    meta_description: 'Hi my name is Gurprit, I develop websites, focused on business requirements. Let\'s have a look at my website to see what I can do and if I can help you, realizing your ideas.'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
