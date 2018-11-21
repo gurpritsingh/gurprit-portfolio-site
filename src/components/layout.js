@@ -20,6 +20,18 @@ const Layout = ({ children }) => (
     `}
     render={data => (
       <>
+      <Helmet>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129590484-1"></script>
+          <script>
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+  
+                gtag('config', 'UA-129590484-1');
+              `}
+          </script>
+      </Helmet>
         <Helmet
           title={data.site.siteMetadata.title}
           meta={[
@@ -27,6 +39,7 @@ const Layout = ({ children }) => (
             { name: 'keywords', content: 'sample, something' },
           ]}
         >
+
           <html lang="en" />
         </Helmet>
         <Header siteTitle={data.site.siteMetadata.title} />
