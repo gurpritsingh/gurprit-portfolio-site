@@ -18,7 +18,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Gurprit | Web | Dev',
-        short_name: 'starter',
+        short_name: 'Gurprit',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',

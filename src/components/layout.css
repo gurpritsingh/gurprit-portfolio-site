@@ -1,13 +1,29 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Reem+Kufi');
 @import '../styles/normalize.css';
 
 html{
   font-family: 'Roboto', sans-serif;
+  font-size:32.5%;
+}
+@media screen and (min-width: 900px) {
+  html{
+    font-size: 42.5%;
+  }
+}
+  
+@media screen and (min-width: 1200px) {
+  html{
+    font-size: 62.5%;
+  }
 }
 
+
 h1{
-  font-size: 4em;
+  font-size: 4rem;
+}
+h2{
+  font-size: 3rem;
 }
 p{
-  font-size: 2em;
+  font-size: 2rem;
 }
