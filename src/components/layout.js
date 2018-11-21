@@ -29,12 +29,8 @@ const Layout = ({ children }) => (
         >
           <html lang="en" />
         </Helmet>
-        {/* <Header siteTitle={data.site.siteMetadata.title} /> */}
-        <div className="mainContainer"
-          style={{
-            padding: '0px 1.0875rem 1.45rem'
-          }}
-        >
+        <Header siteTitle={data.site.siteMetadata.title} />
+        <div className="mainContainer">
           {children}
         </div>
       </>

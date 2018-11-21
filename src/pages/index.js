@@ -8,10 +8,8 @@ import Intro from '../components/intro'
 const IndexPage = () => (
   <Layout>
     <Intro />
-    {/* <h1>Hello, I'm Gurprit!</h1> */}
-    {/* <p>Welcome to my portfolio site.</p> */}
-    <p>Watch out for this space,for updates</p>
-    <div style={{  marginBottom: '1.45rem' }}>
+    <p style={{paddingLeft: '2rem'}}>Watch out this space, for updates</p>
+    <div>
       {/* <Image /> */}
     </div>
     {/* <Link to="/page-2/">Go to page 2</Link> */}
