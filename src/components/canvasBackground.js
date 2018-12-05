@@ -4,7 +4,7 @@ class CanvasBackground extends React.Component {
     context;
     paint = [];
     size = 22;
-    width = window.innerWidth;
+    width;
     totalPaints = this.width/550;
 
     constructor(props){
@@ -13,6 +13,8 @@ class CanvasBackground extends React.Component {
     }
     componentDidMount(){
        const canvas = this.canvasRef.current;
+       //using window object in componentDidMount else while server rendering window will be undefined
+       this.width = window.innerWidth;
        canvas.width = window.innerWidth;
        canvas.height = window.innerHeight;
 
