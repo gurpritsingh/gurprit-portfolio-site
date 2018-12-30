@@ -11,7 +11,6 @@ const IndexPage = () => (
   <Layout>
     <CanvasBackground />
     <Intro />
-    <p style={{paddingLeft: '2rem'}}>Watch out this space, for updates</p>
     <div>
       {/* <Image /> */}
     </div>
