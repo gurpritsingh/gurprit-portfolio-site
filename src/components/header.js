@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 const linkStyles = {
   textDecoration: 'none',
   fontSize: '2.4rem',
-  color: '#333',
+  color: '#fff',
   paddingLeft: '2rem'
 }
 

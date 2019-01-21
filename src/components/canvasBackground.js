@@ -3,7 +3,7 @@ import React from 'react';
 class CanvasBackground extends React.Component {
     context;
     paint = [];
-    size = 22;
+    size = 32;
     width;
     totalPaints;
 
@@ -34,7 +34,7 @@ class CanvasBackground extends React.Component {
 
     addPaint() {
         if(this.paint.length <  this.totalPaints){
-            this.size = Math.random() * this.size + 20;
+            this.size = this.getRandomArbitrary(20, this.size);
             const x = Math.random() * this.width;
 
             this.paint.push({
@@ -63,6 +63,10 @@ class CanvasBackground extends React.Component {
         this.context.fill();
         this.context.closePath();
     }
+
+    getRandomArbitrary(min, max) {
+        return Math.random() * (max - min) + min;
+      }
 
     render(){
         return (
